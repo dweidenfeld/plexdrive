@@ -12,8 +12,8 @@ require (
 	github.com/onsi/ginkgo v1.11.0 // indirect
 	github.com/onsi/gomega v1.8.1 // indirect
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/net v0.0.0-20200114155413-6afb5195e5aa
-	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sys v0.0.0-20200121082415-34d275377bf9
-	google.golang.org/api v0.15.0
+	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
+	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
+	golang.org/x/sys v0.0.0-20210616045830-e2b7044e8c71
+	google.golang.org/api v0.48.0
 )
